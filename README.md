@@ -5,6 +5,8 @@ a small resourse list
 * [OSSU](https://github.com/ossu/) ah it also have bioinformatics 
 * [NPTEL](https://nptel.ac.in) Indian Mooc Platform 
 
+^   5. Code with harry  youtube channel     (https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+
 *You may found many just by googling "awesome github computer science" I have just menstioned those which will make you kind of self Sufficent 
 # Some blogs 
 * [ESR](http:www.catb.org/~esr) : Blog of a selftaught cse and Linux guy. 
